@@ -1,2 +1,5 @@
 *.class
 *.log
+
+_site/
+Gemfile.lock
