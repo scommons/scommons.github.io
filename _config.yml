@@ -16,15 +16,20 @@
 title: Scala Commons
 #email: your-email@example.com
 
-#description: >- # this means to ignore newlines until "baseurl:"
-#  Common Scala utilities and components.
+description: >- # this means to ignore newlines
+  Common Scala utilities and components.
 
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 repository:  scommons/scommons
-github: [metadata]
+
+github.is_project_page: true
+github.repository_url: "https://github.com/scommons/scommons"
+github.repository_name: "scommons"
+github.owner_url: "https://github.com/scommons"
+github.owner_name: "scommons"
 
 # Build settings
 #markdown: kramdown
