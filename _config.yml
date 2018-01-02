@@ -24,6 +24,7 @@ title: Scala Commons
 #twitter_username: jekyllrb
 #github_username:  jekyll
 repository:  scommons/scommons
+github: [metadata]
 
 # Build settings
 #markdown: kramdown
