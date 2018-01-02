@@ -1,8 +1,24 @@
-## Welcome to GitHub Pages
+## Scala Commons GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/scommons/scommons.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Jekyll Theme
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The site is built using the [jekyll-theme-cayman](https://github.com/pages-themes/cayman) theme.
+
+### Previewing the site locally
+
+If you'd like to preview the site locally (for example, in the process of proposing a change):
+
+1. Clone down the site's repository (`git clone https://github.com/scommons/scommons.github.io`)
+2. `cd` into the site's directory
+3. Run `./script/bootstrap.sh` to install the necessary dependencies
+4. Run `./script/server.sh` to start the preview server
+5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the site
+
+### Running tests
+
+The site contains a minimal test suite, to ensure a site with the theme would build successfully.
+To run the tests, simply run `./script/cibuild.sh`.
+You'll need to run `./script/bootstrap.sh` one before the test script will work.
 
 ### Markdown
 
@@ -28,10 +44,3 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scommons/scommons.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

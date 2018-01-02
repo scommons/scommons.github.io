@@ -1,5 +1,7 @@
-*.class
-*.log
+_site
+.sass-cache
+.jekyll-metadata
+.idea
+.DS_Store
 
-_site/
 Gemfile.lock
