@@ -1,5 +1,7 @@
 ## Scala Commons GitHub Pages
 
+[![Build Status](https://travis-ci.org/scommons/scommons.github.io.svg?branch=master)](https://travis-ci.org/scommons/scommons.github.io)
+
 ### Jekyll Theme
 
 The site is built using the [jekyll-theme-cayman](https://github.com/pages-themes/cayman) theme.
