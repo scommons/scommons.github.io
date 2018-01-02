@@ -23,13 +23,10 @@ description: >- # this means to ignore newlines
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
-repository:  scommons/scommons
+#repository:  scommons/scommons
 
-github.is_project_page: true
-github.repository_url: "https://github.com/scommons/scommons"
-github.repository_name: "scommons"
-github.owner_url: "https://github.com/scommons"
-github.owner_name: "scommons"
+is_project_page: true
+repository_url: "https://github.com/scommons/scommons"
 
 # Build settings
 #markdown: kramdown
