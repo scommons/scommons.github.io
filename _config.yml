@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines
 #repository:  scommons/scommons
 
 is_project_page: true
-repository_url: "https://github.com/scommons/scommons"
+repository_url: "https://github.com/scommons"
 
 # Build settings
 #markdown: kramdown
