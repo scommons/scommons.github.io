@@ -46,3 +46,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### How to embed draw.io Diagrams
+
+[GitHub support](https://github.com/jgraph/drawio-github) is now available https://www.draw.io/?mode=github
+
+An example for integration into GitHub wikis is available here [Embed Diagrams](https://github.com/jgraph/drawio/wiki/Embed-Diagrams)
+
+Example diagrams are available [here](https://github.com/jgraph/drawio-diagrams)
