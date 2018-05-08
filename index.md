@@ -4,7 +4,7 @@ layout: default
 
 Welcome to the **Scala Commons** web site!
 
-Visit [Showcase Demo UI](http://scommons.org/scommons-showcase/) to see and try all the components live.
+Visit [Showcase Demo UI](scommons-showcase/) to see and try all the components live.
 
 ### Overview
 
