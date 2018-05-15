@@ -10,7 +10,7 @@ Visit [Showcase Demo UI](https://scommons.org/scommons-showcase/) to see and try
 
 scommons modules splitted into the following layers/repos:
 
-- scommons-api
+- [scommons-api](https://scommons.org/scommons-api)
 - [scommons-client](https://scommons.org/scommons-client)
 - scommons-service
 
