@@ -13,6 +13,7 @@ scommons modules splitted into the following layers/repos:
 - [scommons-api](https://scommons.org/scommons-api)
 - [scommons-client](https://scommons.org/scommons-client)
 - scommons-service
+- [scommons-admin](https://scommons.org/scommons-admin)
 - [sbt-scommons-plugin](https://scommons.org/sbt-scommons-plugin)
 
 Your application can depend on them accordingly:
