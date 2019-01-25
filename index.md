@@ -4,7 +4,7 @@ layout: default
 
 Welcome to the **Scala Commons** web site!
 
-Visit [Showcase Demo UI](https://scommons.org/scommons-showcase/) to see and try all the components live.
+Visit [Showcase Demo UI](https://scommons.org/scommons-client/showcase/) to see and try all the components live.
 
 ### Overview
 
@@ -25,5 +25,5 @@ Your application can depend on them accordingly:
 
 Here are links to different projects that use **scommons** components/modules:
 
-- [Showcase Demo UI](https://scommons.org/scommons-showcase/)
+- [Showcase Demo UI](https://scommons.org/scommons-client/showcase/)
 - [More Examples](https://scommons.org/scommons-examples/)
