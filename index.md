@@ -11,7 +11,7 @@ Visit [Showcase Demo UI](https://scommons.org/scommons-client/showcase/) to see 
 scommons modules splitted into the following layers/repos:
 
 - [scommons-react](https://scommons.org/scommons-react/)
-- scommons-react-native
+- [scommons-react-native](https://scommons.org/scommons-react-native/)
 - [scommons-api](https://scommons.org/scommons-api/)
 - [scommons-client](https://scommons.org/scommons-client/)
 - scommons-service
