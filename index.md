@@ -11,13 +11,14 @@ to see and try all the web-components live.
 
 scommons modules splitted into the following repos:
 
+- [sbt-scommons-plugin](https://scommons.org/sbt-scommons-plugin/)
+- [scommons-nodejs](https://github.com/scommons/scommons-nodejs)
+- [scommons-websql](https://github.com/scommons/scommons-websql)
 - [scommons-api](https://scommons.org/scommons-api/)
 - [scommons-react](https://scommons.org/scommons-react/)
 - [scommons-react-native](https://scommons.org/scommons-react-native/)
 - [scommons-client](https://scommons.org/scommons-client/)
 - [scommons-service](https://github.com/scommons/scommons-service)
-- [scommons-nodejs](https://github.com/scommons/scommons-nodejs)
-- [sbt-scommons-plugin](https://scommons.org/sbt-scommons-plugin/)
 
 Your application can depend on them accordingly:
 
