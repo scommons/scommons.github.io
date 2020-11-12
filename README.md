@@ -1,6 +1,6 @@
 ## Scala Commons GitHub Pages
 
-[![Build Status](https://travis-ci.org/scommons/scommons.github.io.svg?branch=master)](https://travis-ci.org/scommons/scommons.github.io)
+[![Build Status](https://travis-ci.com/scommons/scommons.github.io.svg?branch=master)](https://travis-ci.com/scommons/scommons.github.io)
 
 ### Jekyll Theme
 
