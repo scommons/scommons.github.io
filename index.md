@@ -42,6 +42,8 @@ List of apps that use scommons modules:
   - General purpose Admin app for ease applications, users and permissions management
 - [FAR.js](https://github.com/scommons/far-js)
   - **F**ile and **AR**chive Manager app built with Scala.js/React.js and runs on Node.js
+- [CodeGalaxy App](https://github.com/ExplainLabs/codegalaxy-app)
+  - Mobile App for https://codegalaxy.io/ written in Scala.js/React.js/react-native
 
 
 ### Example Applications
