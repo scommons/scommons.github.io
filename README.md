@@ -1,6 +1,7 @@
-## Scala Commons GitHub Pages
 
-[![Build Status](https://travis-ci.com/scommons/scommons.github.io.svg?branch=master)](https://travis-ci.com/scommons/scommons.github.io)
+[![CI](https://github.com/scommons/scommons.github.io/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/scommons/scommons.github.io/actions/workflows/ci.yml?query=workflow%3Aci+branch%3Amaster)
+
+## Scala Commons GitHub Pages
 
 ### Jekyll Theme
 
