@@ -1,5 +1,5 @@
 
-[![CI](https://github.com/scommons/scommons.github.io/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/scommons/scommons.github.io/actions/workflows/ci.yml?query=workflow%3Aci+branch%3Amaster)
+[![CI](https://github.com/scommons/scommons.github.io/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/scommons/scommons.github.io/actions/workflows/ci.yml?query=workflow%3Aci+branch%3Amain)
 
 ## Scala Commons GitHub Pages
 

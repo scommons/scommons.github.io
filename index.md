@@ -32,7 +32,7 @@ Your application can depend on them accordingly:
 
 ![Overview](drawio/overview.svg)
 
-[Preview](https://www.draw.io/?chrome=0&lightbox=1&url=https%3A%2F%2Fraw.githubusercontent.com%2Fscommons%2Fscommons.github.io%2Fmaster%2Fdrawio%2Foverview.svg%3Ft%3D0) | [Edit](https://www.draw.io/?title=overview.svg&url=https%3A%2F%2Fraw.githubusercontent.com%2Fscommons%2Fscommons.github.io%2Fmaster%2Fdrawio%2Foverview.svg%3Ft%3D0)
+[Preview](https://www.draw.io/?chrome=0&lightbox=1&url=https%3A%2F%2Fraw.githubusercontent.com%2Fscommons%2Fscommons.github.io%2Fmain%2Fdrawio%2Foverview.svg%3Ft%3D0) | [Edit](https://www.draw.io/?title=overview.svg&url=https%3A%2F%2Fraw.githubusercontent.com%2Fscommons%2Fscommons.github.io%2Fmain%2Fdrawio%2Foverview.svg%3Ft%3D0)
 
 ### Real World Applications
 
